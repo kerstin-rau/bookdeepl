@@ -16,5 +16,5 @@ from torchvision.models.shufflenetv2 import shufflenet_v2_x0_5, shufflenet_v2_x1
 #from torchvision.models.mnasnet import mnasnet0_5, mnasnet0_75, mnasnet1_0, \#mnasnet1_3
 
 # segmentation
-from torchvision.models.segmentation import fcn_resnet50, fcn_resnet101, \
-    deeplabv3_resnet50, deeplabv3_resnet101, deeplabv3_mobilenet_v3_large, lraspp_mobilenet_v3_large
+#from torchvision.models.segmentation import fcn_resnet50, fcn_resnet101, \
+   # deeplabv3_resnet50, deeplabv3_resnet101, deeplabv3_mobilenet_v3_large, lraspp_mobilenet_v3_large
